@@ -74,7 +74,7 @@ Kumpulan tampilan awal dan wireframe aplikasi sebagai gambaran visual desain.
 
 Berisi source code lengkap Zona Fokus sebagai dasar pengembangan.
 
-👉 Repository
+👉 [Repository](https://github.com/nadinn72/Zona-Fokus.git)
 
 ---
 
@@ -82,7 +82,7 @@ Berisi source code lengkap Zona Fokus sebagai dasar pengembangan.
 
 Visualisasi alur aplikasi dari splash screen hingga penggunaan stopwatch, untuk memberikan gambaran pengalaman pengguna secara menyeluruh.
 
-👉 Storyboard
+👉 [Storyboard]()
 
 ---
 
@@ -90,7 +90,7 @@ Visualisasi alur aplikasi dari splash screen hingga penggunaan stopwatch, untuk 
 
 Representasi desain antarmuka final yang digunakan sebagai acuan sebelum tahap implementasi.
 
-👉 Mockup
+👉 [Mockup](https://www.figma.com/design/jKuFenvG9QJuuGhm8A3pCd/MockUp?node-id=48-61&t=prKSgYWoEBDZLfjf-1)
 
 ---
 
@@ -98,7 +98,7 @@ Representasi desain antarmuka final yang digunakan sebagai acuan sebelum tahap i
 
 Video prototype interaktif yang menunjukkan cara kerja dan alur penggunaan Zona Fokus secara nyata. Diunggah ke YouTube untuk memudahkan evaluasi dan presentasi.
 
-👉 Video Prototype
+👉 [Video Prototype]( )
 
 ---
 
@@ -106,6 +106,6 @@ Video prototype interaktif yang menunjukkan cara kerja dan alur penggunaan Zona 
 
 Dokumentasi perkembangan proyek yang mencatat tahapan desain dan implementasi.
 
-👉 Progress
+👉 [Progress](https://sharing.clickup.com/90181889610/b/h/6-901812370702-2/741cb91ae5c0678)
 
 ---
