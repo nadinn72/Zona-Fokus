@@ -5,7 +5,7 @@ Siap. Berikut **versi “Zona Fokus”** yang rapi, profesional, dan siap dipaka
 
 # ⏱️ Zona Fokus
 
-**Aplikasi Stopwatch & Timer Fokus dengan Desain Bersih dan Modern**
+**Aplikasi Timer Fokus dengan Desain Bersih dan Modern**
 
 ---
 
