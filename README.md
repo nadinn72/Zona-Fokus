@@ -66,7 +66,8 @@ Struktur proyek disusun secara rapi dan mudah dipahami, terdiri dari:
 
 Kumpulan tampilan awal dan wireframe aplikasi sebagai gambaran visual desain.
 
----
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/3db6562d-1542-4aeb-a60b-1ff47f174ff4" />
+
 
 ## 📌 Rangkaian Asset & Dokumentasi Proyek
 
@@ -82,7 +83,7 @@ Berisi source code lengkap Zona Fokus sebagai dasar pengembangan.
 
 Visualisasi alur aplikasi dari splash screen hingga penggunaan stopwatch, untuk memberikan gambaran pengalaman pengguna secara menyeluruh.
 
-👉 [Storyboard]()
+👉 [Storyboard](https://drive.google.com/file/d/1Q1Ac9GgS2tcNhMeD3P3iMzgP6FiduTT3/view?usp=drivesdk)
 
 ---
 
@@ -98,7 +99,7 @@ Representasi desain antarmuka final yang digunakan sebagai acuan sebelum tahap i
 
 Video prototype interaktif yang menunjukkan cara kerja dan alur penggunaan Zona Fokus secara nyata. Diunggah ke YouTube untuk memudahkan evaluasi dan presentasi.
 
-👉 [Video Prototype]( )
+👉 [Video Prototype](https://youtube.com/shorts/EY45UCAOgtU?si=W5CUzy0n2U413TeN)
 
 ---
 
